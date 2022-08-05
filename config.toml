@@ -1,0 +1,81 @@
+baseURL = "http://weekendproject.space/"
+#title = "Hugo Themes"
+author = "瑞东"
+copyright = "Copyright © 2022"
+paginate = 6
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+# ------------------------------
+title = 'Weekend Project'
+theme = "paper"
+
+[params]
+  github = 'weekend-project-space'
+  rss = true
+
+  avatar = '2445213759@qq.com'
+  name = '瑞东'
+  bio = '大胆策划 小心实施'
+
+# ------------------------------
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "idea-list"
+    name = "idea-list"
+    url = "/idea-list"
+    weight = 10
+  [[menu.main]]
+    identifier = "project"
+    name = "project"
+    url = "/categories/project"
+    weight = 100
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    url = "/categories/blog"
+    weight = 1000
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
