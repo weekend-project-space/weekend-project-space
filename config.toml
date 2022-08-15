@@ -16,6 +16,7 @@ theme = "paper"
 
 [params]
   github = 'weekend-project-space'
+  twitter = 'SUNXYZCHINA'
   rss = true
 
   avatar = '2445213759@qq.com'
@@ -60,7 +61,7 @@ series = "series"
     simple = true
 
   [privacy.twitter]
-    disabled = false
+    disabled = true
     enableDNT = true
     simple = true
 
