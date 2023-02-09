@@ -1,8 +1,15 @@
 +++
 author = "瑞东"
-title = "idea-list"
+title = "一个idea列表"
 date = "2022-08-01"
 description = "想法列表"
+tags = [
+    "idea","博客"
+]
+categories = [
+    "blog",
+]
+
 +++
 
 ## 你投票我实现

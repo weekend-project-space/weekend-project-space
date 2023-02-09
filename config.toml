@@ -1,4 +1,4 @@
-baseURL = "http://weekendproject.space/"
+baseURL = "https://weekendproject.space/"
 #title = "Hugo Themes"
 author = "瑞东"
 copyright = "Copyright © 2022"
@@ -17,11 +17,12 @@ theme = "paper"
 [params]
   github = 'weekend-project-space'
   twitter = 'SUNXYZCHINA'
+  newsletter = 'https://webfollow.cc/#/setup?q=https://weekendproject.space/index.xml'
   rss = true
 
   avatar = '2445213759@qq.com'
-  name = '瑞东'
-  bio = '大胆策划 小心实施'
+  name = '周末项目社会试验'
+  bio = '行为是光 光是你'
 
 # ------------------------------
 
@@ -33,11 +34,7 @@ theme = "paper"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "idea-list"
-    name = "idea-list"
-    url = "/idea-list"
-    weight = 10
+
   [[menu.main]]
     identifier = "project"
     name = "project"
