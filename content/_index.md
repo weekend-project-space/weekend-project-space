@@ -19,4 +19,4 @@ author = "瑞东"
 
 **作品**
 
-[Webfollow](https://webfollow.cc) 、 [JSON在线格式化](/json.html)
+[Webfollow](https://webfollow.cc) 、 [JSON在线格式化](/json.html) 、 [ChatGpt 在线体验](/chat-gpt-online.html) 
