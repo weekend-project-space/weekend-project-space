@@ -19,4 +19,4 @@ author = "瑞东"
 
 **作品**
 
-[Webfollow](https://webfollow.cc) 、 [JSON在线格式化](/json.html) 、 [ChatGpt 在线体验](/chat-gpt-online.html) 
+[Webfollow](https://webfollow.cc) 、[Moon 子弹笔记](/journal.html) 、 [JSON在线格式化](/json.html) 、 [ChatGpt 在线体验](/chat-gpt-online.html)、  [lisp4js](/lisp4js.html) 、 [chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension) 
