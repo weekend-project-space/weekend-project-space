@@ -14,10 +14,11 @@ categories = [
 
 今天在网上逛社区的时候发现了一个[ChatGPT 在线体验网站收集列表](https://github.com/weekend-project-space/chatgpt-sites)的项目
 
-里面收集了很多可以无需代理、无需翻墙 、无需 KEY的三方站点，这对于国内的朋友或许有很大的帮助
+里面收集了很多可以无需代理、无需翻墙 、无需 KEY 的三方站点，这对于国内的朋友或许有很大的帮助。
 
-摘抄过来前100个
+对于想体验更多 ai 相关产品的朋友可以试试这个网站[aihub.bitmagic](https://aihub.bitmagic.space)收录了近千个相关内容。
 
+摘抄过来前 100 个
 
 1. [[⭐⭐] https://chat.binjie.site:7777](https://chat.binjie.site:7777)
 1. [[⭐⭐] https://chat.yqcloud.top](https://chat.yqcloud.top)
@@ -104,7 +105,7 @@ categories = [
 1. [[⭐] https://chat.feelapi.com](https://chat.feelapi.com)
 1. [[⭐] https://chat.feiyihe.net](https://chat.feiyihe.net)
 1. [[⭐] https://chat.forchange.cn](https://chat.forchange.cn)
-1. [[⭐] https://chat.geekr.cool](https://chat.geekr.cool) 支持语音的免费体验版ChatGPT
+1. [[⭐] https://chat.geekr.cool](https://chat.geekr.cool) 支持语音的免费体验版 ChatGPT
 1. [[⭐] https://chat.gog.one](https://chat.gog.one)
 1. [[⭐] https://chat.gow66.tech](https://chat.gow66.tech)
 1. [[⭐] https://chat.gptku.com](https://chat.gptku.com)
@@ -120,5 +121,4 @@ categories = [
 1. [[⭐] https://chat.jingran.vip](https://chat.jingran.vip)
 1. [[⭐] https://chat.kollykolly.cn](https://chat.kollykolly.cn)
 
-有key的朋友可以试用一下这个工具开源免费 [chat-gpt-online](/chat-gpt-online.html)
-
+有 key 的朋友可以试用一下这个工具开源免费 [chat-gpt-online](/chat-gpt-online.html)
