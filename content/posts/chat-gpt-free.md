@@ -16,7 +16,7 @@ categories = [
 
 里面收集了很多可以无需代理、无需翻墙 、无需 KEY 的三方站点，这对于国内的朋友或许有很大的帮助。
 
-对于想体验更多 ai 相关产品的朋友可以试试这个网站[aihub.bitmagic](https://aihub.bitmagic.space)收录了近千个相关内容。
+对于想体验更多 ai 相关应用的朋友可以试试这个网站[aihub.bitmagic](https://aihub.bitmagic.space)收录了近千个 ai 相关的应用与模型。
 
 摘抄过来前 100 个
 
