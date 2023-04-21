@@ -16,6 +16,8 @@ author = "瑞东"
 
 > 大胆策划 小心实施
 
+现在是 2023 年 4 月 13, 我问自己 何为人生第一等事？
+
 **作品**
 
-[Webfollow](https://webfollow.cc) 、[Aihub bitmagic](https://aihub.bitmagic.space/)、[ChatGpt 在线体验](/chat-gpt-online.html)、[Moon 子弹笔记](/journal.html) 、 [JSON 在线格式化](/json.html) 、 [lisp4js](/lisp4js.html) 、 [chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension)
+[Webfollow](https://webfollow.cc) 、[Aihub bitmagic](https://aihub.bitmagic.space/)、[ChatGpt 在线体验](/chat-gpt-online.html)、[bootstrap-gpt](https://github.com/weekend-project-space/bootstrap-gpt)、[Moon 子弹笔记](/journal.html) 、 [JSON 在线格式化](/json.html) 、 [lisp4js](/lisp4js.html) 、 [chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension)
