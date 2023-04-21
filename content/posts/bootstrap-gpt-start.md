@@ -22,13 +22,19 @@ categories = [
 
 ## 第二步：
 
-进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）
+进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）, 配置自己的 api-key
 
 ```
 > cd ./bootstrap-gpt
 
 
 > pip install openai && pip install beautifulsoup4 && pip install jsonpath && pip install jinja2
+```
+
+在.env 文件修改 api-key
+
+```
+api_key=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ## 第三步：
