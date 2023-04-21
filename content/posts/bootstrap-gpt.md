@@ -1,7 +1,7 @@
 +++
 author = "瑞东"
 title = "Bootstrap GPT 是什么"
-date = "2023-03-22"
+date = "2023-04-21"
 description = "ChatGPT 联网后可以做什么"
 tags = [
    "博客","GPT"
