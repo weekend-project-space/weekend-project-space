@@ -15,36 +15,36 @@ title = 'Weekend Project'
 theme = "paper"
 
 [params]
-  github = 'weekend-project-space'
-  twitter = 'SUNXYZCHINA'
-  newsletter = 'https://webfollow.cc/#/setup?q=https://weekendproject.space/index.xml'
-  rss = true
+github = 'weekend-project-space'
+twitter = 'SUNXYZCHINA'
+newsletter = 'https://webfollow.cc/setup?q=https://weekendproject.space/index.xml'
+rss = true
 
-  avatar = '2445213759@qq.com'
-  name = '周末项目社会试验'
-  bio = '行为是光 光是你'
+avatar = '2445213759@qq.com'
+name = '周末项目社会试验'
+bio = '行为是光 光是你'
 
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [menu]
 
 
-  [[menu.main]]
-    identifier = "project"
-    name = "project"
-    url = "/categories/project"
-    weight = 100
-  [[menu.main]]
-    identifier = "blog"
-    name = "blog"
-    url = "/categories/blog"
-    weight = 1000
+[[menu.main]]
+identifier = "project"
+name = "project"
+url = "/categories/project"
+weight = 100
+[[menu.main]]
+identifier = "blog"
+name = "blog"
+url = "/categories/blog"
+weight = 1000
 
 [taxonomies]
 category = "categories"
@@ -53,27 +53,27 @@ series = "series"
 
 [privacy]
 
-  [privacy.vimeo]
-    disabled = false
-    simple = true
+[privacy.vimeo]
+disabled = false
+simple = true
 
-  [privacy.twitter]
-    disabled = true
-    enableDNT = true
-    simple = true
+[privacy.twitter]
+disabled = true
+enableDNT = true
+simple = true
 
-  [privacy.instagram]
-    disabled = false
-    simple = true
+[privacy.instagram]
+disabled = false
+simple = true
 
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
 
 [services]
 
-  [services.instagram]
-    disableInlineCSS = true
+[services.instagram]
+disableInlineCSS = true
 
-  [services.twitter]
-    disableInlineCSS = true
+[services.twitter]
+disableInlineCSS = true
