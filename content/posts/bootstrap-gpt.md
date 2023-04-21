@@ -88,7 +88,7 @@ spider : wiki 引导助手
 最后用总结功能让其总结了一下这篇文件讲了什么:
 
 ```
-> use summmarize
+> use summarize
 请输入网址
 > https://weekendproject.space/posts/bootstrap-gpt/
 
