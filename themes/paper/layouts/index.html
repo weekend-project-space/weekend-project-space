@@ -1,31 +1,57 @@
 {{ define "main" }}
-<!-- avatar -->
-{{ if and $.IsHome }}<!---->
-
-<!-- {{ $avatar_url := $.Scratch.Get `avatar_url` }} -->
-{{ $avatar_url := "https://avatars.githubusercontent.com/u/110220257?s=400&u=e12526129a3ea1934e1aa6b4d032554c7240edec&v=4"}}
-{{ if or $avatar_url site.Params.name }}
-<div class="-mt-4 mb-20 flex items-start">
-  {{ if $avatar_url }}
-  <div class="mr-5 shrink-0 rounded-full border-[0.5px] border-black/10 bg-white/80 p-3 shadow-xl">
-    <img
-      class="my-0 h-14 w-14 rounded-full !bg-black/5 hover:animate-spin dark:!bg-black/80"
-      src="{{ $avatar_url }}"
-    />
-  </div>
-  {{ end }}
-  {{ if site.Params.name }}
-  <div>
-    <h1 class="mt-1.5 mb-3 text-3xl font-bold">{{ site.Params.name }}</h1>
-    <div class="break-words">
-      {{ site.Params.bio | default (print "Personal blog by " site.Params.name) }}
-    </div>
-  </div>
-  {{ end }}
+<div class="top-title">
+  <h1>周末项目</h1>
+  <small>大胆策划 小心实施</small>
 </div>
-{{ end }}
+<div id="top-bg"></div>
+<div id="scroll-down-icon"></div>
+<main class=" home-content ">
 
-{{ end }}
 
-{{.Content}}
+
+  <section
+    class="prose prose-neutral relative mx-auto min-h-[calc(100%-10rem)] max-w-3xl px-8 pt-20 pb-32 dark:prose-invert">
+    <!-- avatar -->
+    {{ if and $.IsHome }}<!---->
+
+
+    <!-- {{ $avatar_url := $.Scratch.Get `avatar_url` }} -->
+    {{ $avatar_url :=
+    "https://avatars.githubusercontent.com/u/110220257?s=400&u=e12526129a3ea1934e1aa6b4d032554c7240edec&v=4"}}
+    {{ if or $avatar_url site.Params.name }}
+    <div class="-mt-4 mb-20 flex items-start">
+      {{ if $avatar_url }}
+      <div class="mr-5 shrink-0 rounded-full border-[0.5px] border-black/10 bg-white/80 p-3 shadow-xl">
+        <img class="my-0 h-14 w-14 rounded-full !bg-black/5 hover:animate-spin dark:!bg-black/80"
+          src="{{ $avatar_url }}" />
+      </div>
+      {{ end }}
+      {{ if site.Params.name }}
+      <div>
+        <h1 class="mt-1.5 mb-3 text-3xl font-bold">{{ site.Params.name }}</h1>
+        <div class="break-words">
+          {{ site.Params.bio | default (print "Personal blog by " site.Params.name) }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ end }}
+    {{.Content}}
+  </section>
+  {{ partial "footer.html" . }}
+</main>
+
+<script>
+  var bt = document.getElementById('scroll-down-icon')
+  bt.addEventListener("click", function () {
+    document.getElementsByClassName('prose')[0].scrollIntoView({
+      behavior: "smooth"
+    });
+  })
+  setTimeout(() => {
+    document.getElementById('top-bg').classList.add('load')
+  }, 300);
+</script>
 {{ end }}

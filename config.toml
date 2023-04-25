@@ -17,7 +17,7 @@ theme = "paper"
 [params]
 github = 'weekend-project-space'
 twitter = 'SUNXYZCHINA'
-newsletter = 'https://webfollow.cc/setup?q=https://weekendproject.space/index.xml'
+newsletter = 'https://webfollow.cc/channel/weekendproject.space/index.xml'
 rss = true
 
 avatar = '2445213759@qq.com'
