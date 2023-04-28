@@ -2,7 +2,7 @@
 author = "瑞东"
 title = "ChatGPT免费在线体验网址"
 date = "2023-03-22"
-description = "chatGPT"
+description = "chatGPT，免费ChatGPT"
 tags = [
    "博客","GPT"
 ]
@@ -121,4 +121,22 @@ categories = [
 1. [[⭐] https://chat.jingran.vip](https://chat.jingran.vip)
 1. [[⭐] https://chat.kollykolly.cn](https://chat.kollykolly.cn)
 
-有 key 的朋友可以试用一下这个工具开源免费 [chat-gpt-online](/chat-gpt-online.html)
+有 key 的朋友
+
+1. [chat-gpt-online](/chat-gpt-online.html)
+1. [chat.bitmagic](https://chat.bitmagic.space)
+
+**如何拥有一个自己的免费 chat gpt 站点**
+
+1.这里以 netlify 为例子， https://www.netlify.com/
+
+首先 fork https://github.com/weekend-project-space/chatbot-ui 这个项目，
+然后 在https://www.netlify.com/ sites 添加站点 import 项目
+然后继续点击完成即可，后续可以配置自己的域名
+
+2.也可以使用 vercel
+直接点击 [部署](https://vercel.com/new/clone?repository-url=https://github.com/weekend-project-space/chatbot-ui)
+
+[更多免费托管平台](https://zhuanlan.zhihu.com/p/180152636)
+
+[找到我](https://twitter.com/SUNXYZCHINA)
