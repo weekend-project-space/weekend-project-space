@@ -20,4 +20,4 @@ author = "瑞东"
 
 **作品**
 
-[Webfollow](https://webfollow.cc) 、[Aihub bitmagic](https://aihub.bitmagic.space/)、[ChatGpt 在线体验](/chat-gpt-online.html)、[bootstrap-gpt](https://github.com/weekend-project-space/bootstrap-gpt)、[Moon 子弹笔记](/journal.html) 、 [JSON 在线格式化](/json.html) 、 [lisp4js](/lisp4js.html) 、 [chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension)、[top-rss-list](https://github.com/weekend-project-space/top-rss-list)
+[Webfollow](https://webfollow.cc) 、[Aihub bitmagic](https://aihub.bitmagic.space/)、[ChatGpt 在线体验](https://chat.weekendproject.online)、[bootstrap-gpt](https://github.com/weekend-project-space/bootstrap-gpt)、[Moon 子弹笔记](/journal.html) 、 [JSON 在线格式化](/json.html) 、 [lisp4js](/lisp4js.html) 、 [chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension)、[top-rss-list](https://github.com/weekend-project-space/top-rss-list)
