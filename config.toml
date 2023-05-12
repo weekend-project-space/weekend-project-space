@@ -1,4 +1,4 @@
-baseURL = "https://weekendproject.space/"
+baseURL = "https://weekendproject.online/"
 #title = "Hugo Themes"
 author = "瑞东"
 copyright = "Copyright © 2022"
@@ -17,7 +17,7 @@ theme = "paper"
 [params]
 github = 'weekend-project-space'
 twitter = 'SUNXYZCHINA'
-newsletter = 'https://webfollow.cc/channel/weekendproject.space/index.xml'
+newsletter = 'https://webfollow.cc/channel/weekendproject.online/index.xml'
 rss = true
 
 avatar = '2445213759@qq.com'
