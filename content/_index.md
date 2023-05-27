@@ -20,7 +20,7 @@ author = "瑞东"
 
 **作品**
 
-- [Webfollow](https://webfollow.cc) : 精选自己的喜爱内容
+- [Webfollow](https://webfollow.cc) : All information flow into the one page , Follow what you love , 精选关注自己的喜爱
 - [e9x.fun](https://e9x.fun) : 超有趣-一键免费拥有自己的导航
 - [aihub.bitmagic](https://aihub.bitmagic.space/) : 发现 AI 相关的应用、提示和模型
 - [Chat 在线体验](https://chat.weekendproject.online) : 和 AI 自由对话
