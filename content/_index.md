@@ -22,6 +22,7 @@ author = "瑞东"
 
 - [Webfollow](https://webfollow.cc) : All information flow into the one page , Follow what you love , 精选关注自己的喜爱
 - [e9x.fun](https://e9x.fun) : 超有趣-一键免费拥有自己的导航
+- [01234.fun](https://e9x.fun) : web tv, 可以收看全球电视，支持 m3u、 m3u8 等资源播放
 - [aihub.bitmagic](https://aihub.bitmagic.space/) : 发现 AI 相关的应用、提示和模型
 - [Chat 在线体验](https://chat.weekendproject.online) : 和 AI 自由对话
 - [Moon 子弹笔记](/journal.html) : 子弹笔记 ，无需服务器 ，数据存在本地
