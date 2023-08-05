@@ -21,8 +21,9 @@ author = "瑞东"
 **作品**
 
 - [Webfollow](https://webfollow.cc) : All information flow into the one page , Follow what you love , 精选关注自己的喜爱
+- [tv.01234.fun](https://tv.01234.fun) : web tv, 可以收看全球电视，支持 m3u、 m3u8 等资源播放
+- [fm.01234.fun](https://fm.01234.fun): web fm，支持 m3u 资源播放
 - [e9x.fun](https://e9x.fun) : 超有趣-一键免费拥有自己的导航
-- [01234.fun](https://01234.fun) : web tv, 可以收看全球电视，支持 m3u、 m3u8 等资源播放
 - [aihub.bitmagic](https://aihub.bitmagic.space/) : 发现 AI 相关的应用、提示和模型
 - [Chat 在线体验](https://chat.weekendproject.online) : 和 AI 自由对话
 - [Moon 子弹笔记](/journal.html) : 子弹笔记 ，无需服务器 ，数据存在本地
@@ -31,3 +32,4 @@ author = "瑞东"
 - [bootstrap-gpt](https://github.com/weekend-project-space/bootstrap-gpt) : 引导 GPT 完成更多事情，支持联网 ， 面向 GPT 编程
 - [chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension) : chrome 插件
 - [top-rss-list](https://github.com/weekend-project-space/top-rss-list) : 优质 RSS 源
+- [micro-note](https://github.com/weekend-project-space/micro-note) : 微笔记-部署私有笔记到本地
