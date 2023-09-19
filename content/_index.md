@@ -23,6 +23,8 @@ author = "瑞东"
 - [Webfollow](https://webfollow.cc) : All information flow into the one page , Follow what you love , 精选关注自己的喜爱
 - [tv.01234.fun](https://tv.01234.fun) : web tv, 可以收看全球电视，支持 m3u、 m3u8 等资源播放
 - [fm.01234.fun](https://fm.01234.fun): web fm，支持 m3u 资源播放
+- [tv-online](https://i-tv.vercel.app): web tv，支持 m3u 资源播放, 手机版
+- [minos](https://minos-one.vercel.app) 网页版微型OS
 - [e9x.fun](https://e9x.fun) : 超有趣-一键免费拥有自己的导航
 - [aihub.bitmagic](https://aihub.bitmagic.space/) : 发现 AI 相关的应用、提示和模型
 - [Chat 在线体验](https://chat.weekendproject.online) : 和 AI 自由对话
