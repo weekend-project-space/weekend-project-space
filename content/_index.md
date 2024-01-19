@@ -22,6 +22,7 @@ author = "瑞东"
 
 - [Webfollow](https://webfollow.cc) : All information flow into the one page , Follow what you love , 精选关注自己的喜爱
 - [今日热搜](https://s.webfollow.cc) : 热搜排行，汇聚各类信息
+- [Eywa](https://1e1.fun/) : LLM Chat UI, 支持多种大模型
 - [tv.01234.fun](https://tv.01234.fun) : web tv, 可以收看全球电视，支持 m3u、 m3u8 等资源播放
 - [fm.01234.fun](https://fm.01234.fun): web fm，支持 m3u 资源播放
 - [tv-online](https://i-tv.vercel.app): web tv，支持 m3u 资源播放, 手机版
