@@ -10,7 +10,7 @@
 
 
   <section
-    class="prose prose-neutral relative mx-auto min-h-[calc(100%-10rem)] max-w-3xl px-8 pt-20 pb-32 dark:prose-invert">
+    class="prose prose-neutral relative mx-auto min-h-[calc(100%-10rem)] max-w-3xl px-8 pt-20  dark:prose-invert">
     <!-- avatar -->
     {{ if and $.IsHome }}<!---->
 
@@ -40,6 +40,25 @@
     {{ end }}
     {{.Content}}
   </section>
+
+
+  <div class="relative my-10  mx-auto  max-w-3xl px-8">
+    <p><strong>文章</strong></p>
+  </div>
+  <!-- $pages -->
+  {{ $pages := union .RegularPages .Sections }}<!---->
+  {{ if .IsHome }}<!---->
+  {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
+  {{ end }}
+  <!-- Articles -->
+  {{ $paginator := .Paginate $pages }} {{ range $index, $page := $paginator.Pages }}<!---->
+
+  <section class="relative my-10  mx-auto  max-w-3xl px-10">
+    <h2 class="!my-0 pb-1 !leading-none">{{ .Title }}</h2>
+    <time class="text-sm opacity-60">{{ .Date | time.Format ":date_medium" }}</time>
+    <a class="absolute inset-0" href="{{ .Permalink }}"></a>
+  </section>
+  {{ end }}
   {{ partial "footer.html" . }}
 </main>
 
