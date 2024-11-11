@@ -3,10 +3,10 @@ author = "瑞东"
 +++
 
 **作品**
-
 - [Webfollow](https://webfollow.cc) All information flow into the one page , Follow what you love , 精选关注自己的喜爱
 - [今日热搜](https://s.webfollow.cc) 热搜排行，汇聚各类信息
 - [web2rss](https://web2rss.cc) 输入网页链接得到rss订阅地址，由AI驱动
+- [webfollow-app](https://github.com/weekend-project-space/webfollow-app) RSS 阅读器, 基于Fever API, 高效易用, 开放源码
 - [Eywa](https://1e1.fun/) LLM Chat UI, 支持多种大模型
 - [tv.01234.fun](https://tv.01234.fun) web tv, 可以收看全球电视，支持 m3u、 m3u8 等资源播放
 - [fm.01234.fun](https://fm.01234.fun) web fm，支持 m3u 资源播放
