@@ -8,4 +8,4 @@ I am conducting an exploratory social experiment to see if I can come up with so
 
 ---
 
-- [博客](https://weekendproject.online/)
+- [blog](https://weekendproject.online/)
