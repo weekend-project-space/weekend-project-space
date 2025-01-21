@@ -2,9 +2,9 @@
 
 <img style="max-width: 360px" align="right" src="https://github-readme-stats.vercel.app/api?username=weekend-project-space&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="weekend-project-space's github stats"/>
 
-👋大家好，我是瑞东
+👋Hello everyone, I am Ruidong
 
-正在进行一项周末项目试验，看能否做出点什么🌟东西来吧
+I am conducting an exploratory social experiment to see if I can come up with something🌟
 
 ---
 
